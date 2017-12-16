@@ -30,8 +30,8 @@ href | An attribute used to specify the link destination.
 CSS | Description
 ----|------------
 CSS | **C** ascading **S** tyle **S** heets that describes how HTML elements are displayed.
-margin |  The outer space of an **element**.
-padding | The inner space of an **element**.
+margin |  The outer space of an element.
+padding | The inner space of an element.
 text-align | The alignment of text in an element.
 
 ## Your Challenge
@@ -67,7 +67,7 @@ To complete Part II, fulfill the following requirements:
         * Inside of this ```div```, create an ```h1``` element to give the cookie a name, ```img``` element to give the cookie a picture, and ```h3``` element to give the cookie a price like the example below.
 
         <div id="cookie1">
-          <h1 id="cookie1-title">Macadamia Cookies</h1>
+          <h1 id="cookie1-title">MnM Cookies</h1>
           <img src="https://greatamericancookies.s3.amazonaws.com/app/uploads/2015/10/OriginalChocChipMM1.png" alt="">
           <h3 id="cookie1-price">$5.23</h3>
         </div>
@@ -120,4 +120,4 @@ Great job!
 1. Make this the best cookie selling site ever and choose new fonts, images, and styles to best fit the page. Create a color scheme and figure out how to get the nav bar looking like a real nav bar!
 *Hint: Try CSS Flexbox!*
 
-2. Create a button anywhere on your page that says "Buy Now!". 
+2. Create a button anywhere on your page that says "Buy Now!".
